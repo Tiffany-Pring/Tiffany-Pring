@@ -60,6 +60,10 @@ I especially enjoy the investigative side of security: following clues, separati
 
 Created a company-style Linux filesystem, configured users, groups, and permissions, practiced backups and compression, and created scripts.
 
+
+[🌿 Explore My Linux Administration Lab](https://github.com/Tiffany-Pring/linux-administration-lab)
+
+
 **Skills:** Linux CLI | Permissions | Backups | Scripting
 
 ---
