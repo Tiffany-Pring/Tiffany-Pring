@@ -104,6 +104,25 @@ I'll investigate a simulated cybersecurity incident, review evidence, determine 
 
 ---
 
+## 🦊 TryHackMe — My Cybersecurity Adventures
+
+*Exploring cybersecurity, one room at a time.* 🌲
+
+I'm building hands-on skills through TryHackMe
+labs, practicing everything from Linux commands
+to investigating suspicious security events.
+
+**🌿 My Learning Trails**
+- 🔍 SOC Analysis & Log Investigation
+- 🐧 Linux Fundamentals
+- 🌐 Network Security
+- 🛡️ Incident Response
+- 🦉 Threat Intelligence
+
+[🌲 Explore My TryHackMe Labs](https://github.com/Tiffany-Pring/tryhackme-cybersecurity-labs)
+
+---
+
 ## 🌱 Currently Growing
 
 - Building a portfolio of hands-on cybersecurity labs
